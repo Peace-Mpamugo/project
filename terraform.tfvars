@@ -1,0 +1,6 @@
+vpc_cidr_block = "192.168.0.0/16"
+my_ip = "0.0.0.0/24"
+env_prefix = "dev"
+instance_type = "t2.mircro"
+user = "peace"
+password = "mydbpassword"
